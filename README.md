@@ -1,9 +1,9 @@
 ## KREAM 리셀 사이트 / Spring-Boot, Oracle
  * 개발 기간 : 2021.07.30 ~ 2021.10.31
  * 주제 : 한정판 리셀(KREAM)
- * 개발 : IntelliJ, Oracle , Visual Studio code
+ * 개발 : IntelliJ, Oracle, Visual Studio code
  * 사용 언어 : Java(JDK), Oracle SQL, HTML5, CSS3, Javascript(ES6)
- * 사용 기술 : JDBC,Thymeleaf,jQuery,Ajax,Spring-Boot(2.5),Mail API,JPA/Hiberrate, Restful API, QueryDSL
+ * 사용 기술 : JDBC,Thymeleaf,jQuery,Ajax,Spring-Boot(2.5),Mail API,JPA/Hiberrate, Rest API, QueryDSL
 
 ### 프로젝트 상세내용 ###
 > 사이트 선택 이유 <br>
